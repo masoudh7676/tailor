@@ -43,7 +43,7 @@
     color: #fff !important;
 }
 .news__btn{
-    padding: 1rem 12.8rem !important;
+    padding: 1rem 0 !important;
     border: 1px solid var(--main) !important;
     color: var(--main);
     transition: all 240ms ease-in;

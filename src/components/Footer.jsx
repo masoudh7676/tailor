@@ -56,7 +56,7 @@ export default function Footer() {
                 <Link className='text-decoration-none text-white text-capitalize' to="/">Home</Link>
                 <Link className='text-decoration-none text-white text-capitalize' to="/history">Our History</Link>
                 <Link className='text-decoration-none text-white text-capitalize' to="/blog">Blog</Link>
-                <Link className='text-decoration-none text-white text-capitalize' to="contact">Contact</Link>
+                <Link className='text-decoration-none text-white text-capitalize' to="/contact">Contact</Link>
               </Nav>
             </Col>
             <Col>
