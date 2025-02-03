@@ -3,13 +3,13 @@ import './footer.css'
 import { Link } from 'react-router-dom';
 import { RiFacebookFill, RiTwitterFill, RiGlobalLine } from "react-icons/ri";
 import { Container, Card, Row, Col, Button, Image, Nav } from 'react-bootstrap';
-
+import footerImg from './images/footer_bg.jpg.webp'
 export default function Footer() {
   return (
     <>
       <div className='footer__section'>
         <div className='img__box--footer overflow-hidden position-relative'>
-          <img src="./tailor/footer_bg.jpg.webp" alt="" />
+          <img src="footerImg" alt="" />
           <div className='text__box--footer overflow-hidden position-absolute text-white h-100 end-0'>
             <h3 className='text-capitalize position-relative title'>The joy of dressing <br /> is an art</h3>
             <div className='line position-relative mt-5'></div>
