@@ -1,0 +1,61 @@
+:root{
+    --main: #c6a16e;
+    --gray: #96989a;
+}
+.date__box{
+    background-color: #c6a16e;
+    width: 6rem;
+    top: -6%;
+    left: 2%;
+}
+.custom__title{
+    font-family: 'JosefinSans-Regular';
+}
+.light__bg{
+    background-color: #fbf9ff;
+}
+.category span{
+    font-family: 'JosefinSans-Regular';
+}
+.gray{
+    font-size: 16px !important;
+    color: var(--gray) !important;
+    transition: all 260ms ease-in;
+    -webkit-transition: all 260ms ease-in;
+    -moz-transition: all 260ms ease-in;
+    -ms-transition: all 260ms ease-in;
+    -o-transition: all 260ms ease-in;
+}
+.gray:hover{
+    color: --main !important;
+}
+.btn__custom{
+    font-size: 15px !important;
+    color: var(--gray) !important;
+    transition: all 240ms ease-in;
+    -webkit-transition: all 240ms ease-in;
+    -moz-transition: all 240ms ease-in;
+    -ms-transition: all 240ms ease-in;
+    -o-transition: all 240ms ease-in;
+}
+.btn__custom:hover{
+    background-color: var(--main) !important;
+    color: #fff !important;
+}
+.news__btn{
+    padding: 1rem 12.8rem !important;
+    border: 1px solid var(--main) !important;
+    color: var(--main);
+    transition: all 240ms ease-in;
+    -webkit-transition: all 240ms ease-in;
+    -moz-transition: all 240ms ease-in;
+    -ms-transition: all 240ms ease-in;
+    -o-transition: all 240ms ease-in;
+}
+.news__btn:hover{
+    background-color: var(--main) !important;
+    color: #fff !important;
+}
+.bg__transparent{
+    background-color: transparent !important;
+}

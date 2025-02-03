@@ -1,0 +1,8 @@
+const blogCards = [
+    {id:1 , title: 'Google inks pact for new 35-storey office', description: "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.", img: './images/single_blog_1.png.webp', date: '15 jan'},
+    {id:2 , title: 'Google inks pact for new 35-storey office', description: "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.", img: './images/single_blog_2.png.webp', date: '24 feb'},
+    {id:3 , title: 'Google inks pact for new 35-storey office', description: "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.", img: './images/single_blog_3.png.webp', date: '04 jul'},
+    {id:4 , title: 'Google inks pact for new 35-storey office', description: "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.", img: './images/single_blog_4.png.webp', date: '18 sep'},
+    {id:5 , title: 'Google inks pact for new 35-storey office', description: "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.", img: './images/single_blog_5.png.webp', date: '12 jan'},
+]
+export default blogCards

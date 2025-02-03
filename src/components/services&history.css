@@ -1,0 +1,26 @@
+.services__container{
+      background-color: #212529;
+}
+ .services__container, .img__containerH{
+    margin-top: 6rem;
+ }
+.services__title, .history__title{
+    left: 18%;
+    font-size: 50px;
+    font-family: 'JosefinSans-Regular';
+}
+.services__main{
+    background-color: #161922;
+}
+
+@media screen and (max-width: 900px){
+    .services__title, .history__title{
+        font-size: 35px !important;
+    }.image__custom{
+        height: 29dvh;
+        width: 93%;
+    }.services__title, .history__title{
+        left: 8.5%;
+    }
+    
+}

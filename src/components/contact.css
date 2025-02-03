@@ -1,0 +1,18 @@
+.custom__font{
+    font-family: 'JosefinSans-Regular';
+    color: #2a2a2a;
+}
+.submit__btn{
+    padding: 1rem 0 !important;
+    border: 1px solid #c6a16e !important;
+    color: var(--main);
+    transition: all 240ms ease-in;
+    -webkit-transition: all 240ms ease-in;
+    -moz-transition: all 240ms ease-in;
+    -ms-transition: all 240ms ease-in;
+    -o-transition: all 240ms ease-in;
+}
+.submit__btn:hover{
+    background-color: var(--main) !important;
+    color: #fff !important;
+}
