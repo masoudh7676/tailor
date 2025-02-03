@@ -9,7 +9,7 @@ export default function Navigation() {
       <Container fluid>
         <Navbar.Brand>
           <Link to='/'> 
-            <img src='/images/logo.png.webp' alt='Logo' />
+            <img src='./images/logo.png.webp' alt='Logo' />
           </Link> 
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
