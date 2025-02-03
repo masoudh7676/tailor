@@ -32,25 +32,25 @@
 }
 @font-face {
   font-family: 'Montserrat-Regular';
-  src: url(public/Fonts/Montserrat-Regular.woff) format(truetype);
+  src: url(../public/Fonts/Montserrat-Regular.woff) format(truetype);
 }
 @font-face {
   font-family: 'Montserrat-Medium';
-  src: url(public/Fonts/Montserrat-Medium.woff) format(truetype);
+  src: url(../public/Fonts/Montserrat-Medium.woff) format(truetype);
 }
 @font-face {
   font-family: 'Montserrat-Bold';
-  src: url(public/Fonts/Montserrat-Bold.woff) format(truetype);
+  src: url(../public/Fonts/Montserrat-Bold.woff) format(truetype);
 }
 @font-face {
   font-family: 'JosefinSans-Regular';
-  src: url(public/Fonts/JosefinSans-Regular.woff) format(truetype);
+  src: url(../public/Fonts/JosefinSans-Regular.woff) format(truetype);
 }
 
 
 @font-face {
   font-family: 'GreatVibes-Regular';
-  src: url(public/Fonts/GreatVibes-Regular.woff) format(truetype);
+  src: url(../public/Fonts/GreatVibes-Regular.woff) format(truetype);
 }
 
 
