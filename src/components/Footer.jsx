@@ -22,9 +22,9 @@ export default function Footer() {
                 <h5 className='fs-3 mb-5'>Links</h5>
                 <Nav className=' flex-column gap-3'>
                   <Link className='text-decoration-none text-white text-capitalize' to="/">Home</Link>
+                  <Link className='text-decoration-none text-white text-capitalize' to="/blog">blog</Link>
                   <Link className='text-decoration-none text-white text-capitalize' to="/history">Our History</Link>
-                  <Link className='text-decoration-none text-white text-capitalize' to="/gallery">Gallery</Link>
-                  <Link className='text-decoration-none text-white text-capitalize' to="contact">Contact</Link>
+                  <Link className='text-decoration-none text-white text-capitalize' to="/contact">Contact</Link>
                 </Nav>
               </Col>
               <Col >
