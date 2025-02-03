@@ -21,7 +21,7 @@ export default function Footer() {
               <Col >
                 <h5 className='fs-3 mb-5'>Links</h5>
                 <Nav className=' flex-column gap-3'>
-                  <Link className='text-decoration-none text-white text-capitalize' to="/">Home</Link>
+                  <Link className='text-decoration-none text-white text-capitalize' to="/home">Home</Link>
                   <Link className='text-decoration-none text-white text-capitalize' to="/blog">blog</Link>
                   <Link className='text-decoration-none text-white text-capitalize' to="/history">Our History</Link>
                   <Link className='text-decoration-none text-white text-capitalize' to="/contact">Contact</Link>

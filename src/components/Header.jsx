@@ -4,7 +4,7 @@ export default function Main() {
   return (
     <>
       <div className='img__container  position-relative text-white'>
-        <img src="/images/h1_hero.jpg" className='img-fluid object-fit-cover' alt="" />
+        <img src="./images/h1_hero.jpg" className='img-fluid object-fit-cover' alt="" />
         <div className='img__text position-absolute'>
           <div className='img__main--text mt-5'>
             <h2 className='fw-bold'>

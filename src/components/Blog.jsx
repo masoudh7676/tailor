@@ -87,7 +87,7 @@ export default function Blog() {
                             <br />
                             <div className='mt-5 text-center light__bg p-2'>
                                 <p className='text-capitalize border-bottom p-3'>tag clouds</p>
-                                <div className=''>
+                                <div>
                                     <button className='btn border mx-2 my-4 btn__custom'>project</button>
                                     <button className='btn border mx-2 my-4 btn__custom'>love</button>
                                     <button className='btn border mx-2 my-4 btn__custom'>technology</button>
